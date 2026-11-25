@@ -1,0 +1,2 @@
+# Verification
+The earlier local consolidated release reproduced 11 analytical scripts and 13 aggregate tables (11 exact, two within 1e-15). Original Stata labels checked: both waves' totcons_adj is annual per-capita consumption, and Wave 5 totcons_adj21 is daily per-capita 2021 PPP consumption. This public baseline subset replaces deprecated np.trapz with np.trapezoid. Public CI checks syntax and aggregate consistency only; it cannot reproduce restricted-data analyses without authorized archives. Full manuscript review and independent forecast validation remain outstanding.

@@ -1,0 +1,7 @@
+NGA_*.zip
+CPI_*.zip
+*.dta
+__pycache__/
+episode_work/
+*.mp4
+*.wav
